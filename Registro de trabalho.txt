@@ -1,0 +1,1 @@
+28/08/19 -> criação deste registro, primeira prototipagem do aplicativo (Quant-UX), criação de um arquivo no projeto para registrar link do protótipo.
